@@ -1,0 +1,20 @@
+{
+  "name": "frontburgers",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.18.0",
+    "mobx": "^5.0.2",
+    "react": "^16.4.0",
+    "react-dom": "^16.4.0",
+    "react-mobx": "^0.0.3",
+    "react-scripts": "^1.1.4",
+    "tachyons": "^4.10.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-schttphttps://github.com/justadudewhohacks/opencv4nodejss://github.com/justadudewhohacks/opencv4nodejsripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
